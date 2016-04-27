@@ -1,0 +1,82 @@
+header {
+	padding-top: 10px;
+
+}
+
+h1 {
+
+	text-align: center;
+	color: #FFBFA0;
+	
+}
+
+header h2 {
+margin-left: 300px;
+}
+
+Nav {
+	background-color: #885A5C;
+	padding: 10px;
+}
+
+nav ul {
+	list-style-type: none;
+	text-align: center;	
+}
+
+nav ul li {
+	display: inline-block;
+	margin: 0 6px;
+	font-size: 20px;
+}
+
+li a:link,li a:active,li a:hover,li a:visited {
+	color: #000;
+	text-decoration: none;
+}
+
+li a:hover {
+	text-decoration: underline;
+	font-weight: bold;
+	color: #fff;
+}
+
+
+ ol li {
+ 	color: #EEFFDB;
+  }
+
+ h2 {
+ 	color:#B8D4E3;
+ 	text-align: center;
+ 	margin-right: 190px;
+
+ }
+
+ p {
+ 	color: #EEFFDB;
+ 	text-align: center;
+ }
+.boxed {
+		font-family: Bauhaus 93;
+		background-image: strawberries.jpg;
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-attachment: fixed;
+		background-size: cover;
+		margin: 0;
+		display: table;
+}
+
+.candy {
+		font-family: Bauhaus 93;
+		background-image: strawberries.jpg;
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-attachment: fixed;
+		background-size: cover;
+		margin: 0;
+		display: table;
+		color: #387780;
+}
+
